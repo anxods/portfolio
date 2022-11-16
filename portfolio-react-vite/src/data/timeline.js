@@ -1,16 +1,21 @@
 export default [
     {
+        year: "2022",
+        title: "Desarrollador BI Junior - Altia",
+        duration: "Actualidad",
+        details: "",
+    },
+    {
+        year: "2022",
+        title: "Prácticas curriculares - Altia",
+        duration: "3 meses",
+        details: "Uso de herramientas como PowerBI, Snowflake, o DB2. Principalmente, realicé tareas de construcción de informes" + 
+            " y cuadros de mando, y también de desarrollo de scripts usando PL/SQL o JavaScript.",
+    },
+    {
         year: "2018",
-        title: "Ingeniería Informática - Universidade de A Coruña (UDC)",
+        title: "Ingeniería Informática - UDC",
         duration: "4 años",
-        details: "Grado bilingüe (inglés) - Mención en Sistemas de Información" +
-
-        "- Trabajo Fin de Grado ~ Matrícula de Honor (9.8/10)" +
-        
-        "'Plataforma sostenible de comida a domicilio'. Aplicación web que combina las principales funcionalidades existentes en Uber Eats, Glovo o Just Eat, y las presentes en aplicaciones como Too Good To Go." + 
-        
-        "Principales tecnologías usadas: Vue.js, Spring, Hibernate, PostgreSQL..." +
-        
-        "- Prácticas en empresa ~ Sobresaliente (10/10)",
+        details: "Grado bilingüe (inglés) - Mención en Sistemas de Información",
     },
 ]

@@ -2,13 +2,13 @@ export default [
     {
         title: "Sustainable Food Delivery Platform",
         imageUrl: "/assets/sfdp.png",
-        stack: ["Vue", "Hibernate", "Spring Boot", "PostgreSQL"],
+        stack: ["Javascript", "Vue", "Java", "Hibernate", "Spring Boot", "PostgreSQL"],
         link: "https://ruc.udc.es/dspace/handle/2183/31285",
     },
     {
-        title: "Portfolio website",
+        title: "Portfolio",
         imageUrl: "/assets/pf.png",
-        stack: ["React", "Tailwind", "Vite"],
+        stack: ["Javascript", "React", "Tailwind", "Vite"],
         link: "https://anxods.dev",
     },
 ]
